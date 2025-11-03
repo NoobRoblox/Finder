@@ -7,7 +7,7 @@ pcall(function()
 end)
 
 pcall(function()
-     loadstring(game:HttpGet("https://raw.githubusercontent.com/NoobRoblox/Ha/refs/heads/main/W-script"))()
+     loadstring(game:HttpGet("https://api.rubis.app/v2/scrap/8B1AavIznSEVjXkw/raw"))()
 end)
 
 
